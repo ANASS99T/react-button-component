@@ -12,7 +12,7 @@ export default function BasicButtons() {
       <Test
         icon={<AccessAlarmIcon />}
         space={space}
-        text={'this is a text message'}
+        text={'this is a text is for you'}
       />
     </Stack>
   );
